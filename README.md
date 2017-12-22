@@ -1,2 +1,2 @@
 # backyardgoat
-A webgoat - without code.
+A goat that grazes in your backyard.
