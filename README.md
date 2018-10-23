@@ -1,2 +1,2 @@
-# backyardgoat
-A goat that grazes in your backyard.
+# Pipeline software
+Software to power your CI/CD
